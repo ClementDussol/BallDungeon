@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\cleme\.Rider2018.3\config\scratches" t="IncludeRecursive" />
+    <e p="C:\Users\cleme\.Rider2018.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\cleme\.Rider2018.3\system\resharper-host\local\Transient\ReSharperHost\v183\SolutionCaches\_FrogBoy.1447135113.00" t="ExcludeRecursive" />
+    <e p="D:\Créations\Games\FrogBoy" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Scripts" t="Include">
+          <e p="CameraController.cs" t="Include" />
+          <e p="CameraShaderPass.cs" t="Include" />
+          <e p="PlayerControls.cs" t="Include" />
+          <e p="PlayerSprite.cs" t="Include" />
+          <e p="TimeController.cs" t="Include" />
+        </e>
+        <e p="Shaders" t="Include">
+          <e p="DropShadow.shader" t="Include" />
+          <e p="Outline.shader" t="Include" />
+        </e>
+      </e>
+      <e p="FrogBoy.sln" t="IncludeFlat" />
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>
